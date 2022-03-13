@@ -74,5 +74,32 @@ color: #555f23;
     border: 2px solid #555f23;
 }
 
+.client{
+    width: 100px;
+}
+
+.accordian-custom{
+    border: 1px solid black;
+}
+
+.info{
+    background-color: #A3AD71;
+}
+.contact h2{
+     color: #A3AD71;
+}
+
+.submit-btn{
+    border: none;
+    background-color: #A3AD71;
+    color: #fdfdfc;
+}
+.submit-btn:hover{
+    border: none;
+    color: #A3AD71;
+    background-color: #fdfdfc;
+    border: 2px solid #555f23;
+}
+
 
      
