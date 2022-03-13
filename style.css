@@ -1,10 +1,12 @@
 *{
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
+    
 }
 body{
     font-family: 'Poppins', sans-serif;
-    overflow-x: hidden;
+    
 }
 a{
     text-decoration: none;
@@ -90,14 +92,25 @@ color: #555f23;
     background-color: #717c3d;
     color: #fdfdfc;
     border-radius: 15px;
+    position: relative;
+}
+
+.hot{
+    position: absolute;
+    top: -12px;
+    right: 20px;
+    border-radius: 10px;
+    
+    
 }
 .client{
     width: 100px;
 }
 
 .accordian-custom{
-    border: 1px solid black;
+    border: 3px solid #A3AD71;
     margin-bottom: 20px;
+    
 }
 
 .info{
