@@ -4,6 +4,7 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
 }
 a{
     text-decoration: none;
@@ -73,13 +74,30 @@ color: #555f23;
     color: #555f23;
     border: 2px solid #555f23;
 }
-
+.price-title{
+    color: #505f0f;
+}
+.check-icon{
+    color: #505f0f;
+}
+.purchase-btn{
+    border: none;
+    background-color: #d2daad;
+    color: #262c0d;
+    
+}
+.hot-package{
+    background-color: #717c3d;
+    color: #fdfdfc;
+    border-radius: 15px;
+}
 .client{
     width: 100px;
 }
 
 .accordian-custom{
     border: 1px solid black;
+    margin-bottom: 20px;
 }
 
 .info{
@@ -120,6 +138,15 @@ color: #555f23;
     border: 1px solid #A3AD71;
     background-color: #fdfdfc;
     
+}
+
+.app{
+    width: 135px;
+    
+}
+.app-store{
+    border: px solid white;
+    border-radius: 10px;
 }
 
 
