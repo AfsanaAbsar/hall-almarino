@@ -5,3 +5,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+a{
+    text-decoration: none;
+}
+nav{
+    background-color: #CBB8A7;
+}
+      
