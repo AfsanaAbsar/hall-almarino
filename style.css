@@ -10,5 +10,12 @@ a{
 }
 nav{
     background-color: #CBB8A7;
+    
 }
+.nav-link:hover{
+    border-left:2px solid #A3AD71 ;
+    
+    
+}
+
       
