@@ -24,9 +24,7 @@ nav {
 
 }
 
-.nav-link {
-    text-transform: uppercase;
-}
+
 
 .nav-link:hover {
     border-left: 2px solid #A3AD71;
